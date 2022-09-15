@@ -4,9 +4,8 @@ body {
     font-family: Arial, Verdana;
     background-color: #000000;
     color: #FFFFFF;
-    margin-top: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin: 20px 20px 0px 20px;
+   
 }
 h1 {
     font-size: 42px;
@@ -82,7 +81,5 @@ footer {
 footer p {
     font-size: 20px;
     text-align: right;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+    padding: 15px 15px 15px 0px;
 }
